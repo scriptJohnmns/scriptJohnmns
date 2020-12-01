@@ -19,3 +19,9 @@ No momento estudando :books: <br>
 Specs do notebook :computer:<br>
 <img src="https://img.shields.io/badge/-Manjaro%20Linux-brightgreen?style=for-the-badge&logo=manjaro&logoColor=white"> <img src="https://img.shields.io/badge/arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge"> <img src="https://img.shields.io/badge/intel-core%20i5-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"> <img src="https://img.shields.io/badge/RAM-16GB-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/nvidia-gt930m-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white">
 </p>
+
+ 
+<p align="center">
+Ouvindo agora no Spotify :notes: <br>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=22sigf5qf4vnnsaorrely4rai&cover_image=true&theme=default"/>
+</p>
