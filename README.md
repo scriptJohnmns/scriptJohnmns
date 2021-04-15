@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Estudante de Sistemas de Informação pela <br>
+  Estudante de Análise e Desenvolvimento de Software pela <br>
   <img src="https://img.shields.io/badge/Uniube-S.I.-blue?style=for-the-badge">
 </p>
 
@@ -17,7 +17,7 @@ No momento estudando :books: <br>
 
 <p align ='center'>
 Specs do notebook :computer:<br>
-<img src="https://img.shields.io/badge/-Manjaro%20Linux-brightgreen?style=for-the-badge&logo=manjaro&logoColor=white"> <img src="https://img.shields.io/badge/arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge"> <img src="https://img.shields.io/badge/intel-core%20i5-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"> <img src="https://img.shields.io/badge/RAM-16GB-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/nvidia-gt930m-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white">
+<img src="https://img.shields.io/badge/-openSuse-darkgreen?style=for-the-badge&logo=opensuse&logoColor=white"><img src="https://img.shields.io/badge/intel-core%20i5-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"> <img src="https://img.shields.io/badge/RAM-16GB-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/nvidia-gt930m-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white">
 </p>
 
  
