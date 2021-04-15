@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Estudante de Análise e Desenvolvimento de Software pela <br>
+  Estudante de Análise e Desenvolvimento de Sistemas pela <br>
   <img src="https://img.shields.io/badge/Uniube-S.I.-blue?style=for-the-badge">
 </p>
 
