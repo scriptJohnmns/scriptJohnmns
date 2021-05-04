@@ -17,7 +17,7 @@ No momento estudando :books: <br>
 
 <p align ='center'>
 Specs do notebook :computer:<br>
-<img src="https://img.shields.io/badge/-openSuse Linux-darkgreen?style=for-the-badge&logo=opensuse&logoColor=white"> <img src="https://img.shields.io/badge/intel-core%20i5-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"> <img src="https://img.shields.io/badge/RAM-16GB-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/nvidia-gt930m-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white">
+<img src="https://img.shields.io/badge/-openSuse Linux-darkgreen?style=for-the-badge&logo=opensuse&logoColor=white"> <img src="https://img.shields.io/badge/RAM-16GB-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/nvidia-gt930m-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"> <img src="https://img.shields.io/badge/intel-core%20i5-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
 </p>
 
  
