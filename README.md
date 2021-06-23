@@ -3,25 +3,28 @@
 </h1>
 
 <p align='center'>
-  Estudante de Análise e Desenvolvimento de Sistemas pela <br>
+  <b>Estudante de Análise e Desenvolvimento de Sistemas pela<b> <br>
   <img src="https://img.shields.io/badge/Uniube-S.I.-blue?style=for-the-badge">
 </p>
-
+  
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=scriptJohnmns&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align="center">
-No momento estudando :books: <br>
-<img src="https://img.shields.io/badge/-LINUX-blue?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"></p>
+<b>No momento estudando<b> :books: <br>
+<img src="https://img.shields.io/badge/-LINUX-blue?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Django-blue?style=for-the-badge&logo=Django&logoColor=white%22"> <img src="https://img.shields.io/badge/-Flask-blue?style=for-the-badge&logo=Flask&logoColor=white%22"> <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"> <br> 
+<img src="https://img.shields.io/badge/DEV-Back--end-informational?style=for-the-badge&logoColor=white">
+</p>
+
 
 <p align ='center'>
-Specs do notebook :computer:<br>
+<b>Specs do notebook<b> :computer:<br>
 <img src="https://img.shields.io/badge/-openSuse Linux-darkgreen?style=for-the-badge&logo=opensuse&logoColor=white"> <img src="https://img.shields.io/badge/RAM-16GB-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/nvidia-gt930m-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"> <img src="https://img.shields.io/badge/intel-core%20i5-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
 </p>
 
  
 <p align="center">
-Ouvindo agora no Spotify :notes: <br>
+<b>Ouvindo agora no Spotify<b> :notes: <br>
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=22sigf5qf4vnnsaorrely4rai&cover_image=true&theme=default"/>
 </p>
