@@ -13,7 +13,7 @@
 
 <p align="center">
 <b>No momento estudando<b> :books: <br>
-<img src="https://img.shields.io/badge/-LINUX-blue?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Django-blue?style=for-the-badge&logo=Django&logoColor=white%22"> <img src="https://img.shields.io/badge/-Flask-blue?style=for-the-badge&logo=Flask&logoColor=white%22"> <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"> <br> 
+<img src="https://img.shields.io/badge/-LINUX-blue?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Django-darkgreen?style=for-the-badge&logo=Django&logoColor=white%22"> <img src="https://img.shields.io/badge/-Flask-grey?style=for-the-badge&logo=Flask&logoColor=white%22"> <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"> <br> 
 <img src="https://img.shields.io/badge/DEV-Back--end-informational?style=for-the-badge&logoColor=white">
 </p>
 
