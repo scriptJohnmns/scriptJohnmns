@@ -13,7 +13,7 @@
 
 <p align="center">
 <b>No momento estudando<b> :books: <br>
-<img src="https://img.shields.io/badge/-LINUX-blue?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Android-darkgreen?style=for-the-badge&logo=Android&logoColor=white%22"><br>  
+<img src="https://img.shields.io/badge/-LINUX-blue?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white%22"><br> 
 <img src="https://img.shields.io/badge/DEV-Back--end-informational?style=for-the-badge&logoColor=white">
 </p>
 
