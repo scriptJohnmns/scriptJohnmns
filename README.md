@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  <b>Estudante de Análise e Desenvolvimento de Sistemas pela<b> <br>
+  <b>Graduado em Análise e Desenvolvimento de Sistemas pela<b> <br>
   <img src="https://img.shields.io/badge/Uniube-S.I.-blue?style=for-the-badge">
 </p>
   
@@ -12,15 +12,19 @@
 </p>
 
 <p align="center">
-<b>No momento estudando<b> :books: <br>
-<img src="https://img.shields.io/badge/-LINUX-blue?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white%22"><br> 
-<img src="https://img.shields.io/badge/DEV-Back--end-informational?style=for-the-badge&logoColor=white">
+<b>Aspirante a<b> :nerd_face: <br>
+<img src="https://img.shields.io/badge/-Hacking-black?style=for-the-badge&logo=hackaday&logoColor=white"> <img src="https://img.shields.io/badge/-Analista de Cybersecurity-gray?style=for-the-badge&logo=redhat&logoColor=white">  
+</p>
+  
+ <p align="center">
+<b>Tecnologias<b> 💻: <br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">  
 </p>
 
 
 <p align ='center'>
-<b>Specs do notebook<b> :computer:<br>
-<img src="https://img.shields.io/badge/-fedora%20Linux-blue?style=for-the-badge&logo=fedora&logoColor=white"> <img src="https://img.shields.io/badge/RAM-16GB-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/nvidia-gt930m-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"> <img src="https://img.shields.io/badge/intel-core%20i5-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
+<b>Specs do pc<b> 🖥️:<br>
+<img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"> <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"> <img src="https://img.shields.io/badge/RAM-32GB-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/nvidia-RTX 3060Ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"> <img src="https://img.shields.io/badge/Ryzen-5%205600-%230071C5.svg?&style=for-the-badge&logo=amd&logoColor=white">
 </p>
 
  
