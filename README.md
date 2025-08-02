@@ -30,5 +30,5 @@
  
 <p align="center">
 <b>Ouvindo agora no Spotify<b> :notes: <br>
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=22sigf5qf4vnnsaorrely4rai&cover_image=true&theme=default"/>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22sigf5qf4vnnsaorrely4rai&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 </p>
