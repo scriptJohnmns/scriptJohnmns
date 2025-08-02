@@ -29,6 +29,5 @@
 
  
 <p align="center">
-<b>Ouvindo agora no Spotify<b> :notes: <br>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22sigf5qf4vnnsaorrely4rai&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22sigf5qf4vnnsaorrely4rai&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)"
 </p>
