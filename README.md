@@ -2,11 +2,11 @@
 
 ###
 
-<img align="left" height="170" src="https://scriptjohn.com.br/profile_hu_557b824768669cb4.png"  />
+<img align="left" height="180" src="https://scriptjohn.com.br/profile_hu_557b824768669cb4.png"  />
 
 ###
 
-<h5 align="left">SysAdmin • DevOps • SRE | O cara que chamam quando o servidor para.<br><br>Minha base sempre foi o Linux — é nele que administro servidores, orquestro containers e monto automações para deixar tudo rodando liso. Trabalho unindo a pegada clássica de SysAdmin com práticas DevOps e SRE, sempre buscando confiabilidade e menos dor de cabeça na hora de manter os serviços no ar.<br><br>Além da infraestrutura, curto explorar Cybersegurança, criar automações pessoais e otimizar meu dia a dia com setups minimalistas.</h5>
+<h4 align="left">SysAdmin • DevOps • SRE | O cara que chamam quando o servidor para.<br><br>Minha base sempre foi o Linux — é nele que administro servidores, orquestro containers e monto automações para deixar tudo rodando liso. Trabalho unindo a pegada clássica de SysAdmin com práticas DevOps e SRE, sempre buscando confiabilidade e menos dor de cabeça na hora de manter os serviços no ar.<br><br>Além da infraestrutura, curto explorar Cybersegurança, criar automações pessoais e otimizar meu dia a dia com setups minimalistas.</h4>
 
 ###
 <p>
