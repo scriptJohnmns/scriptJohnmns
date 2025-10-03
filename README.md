@@ -1,18 +1,16 @@
 <h1 align="left">Olá, Eu sou o  João Marcos N.S.👋🏼🧑🏻‍💻</h1>
 
-###
+<img align="left" height="230" src="https://scriptjohn.com.br/profile_hu_557b824768669cb4.png"  />
 
-<img align="left" height="180" src="https://scriptjohn.com.br/profile_hu_557b824768669cb4.png"  />
+<h4 align="left"> SysAdmin • DevOps • SRE | O cara que chamam quando o servidor para.</h4>
+<br>Minha base sempre foi o Linux — é nele que administro servidores, orquestro containers e monto automações para deixar tudo rodando liso. Trabalho unindo a pegada clássica de SysAdmin com práticas DevOps e SRE, sempre buscando confiabilidade e menos dor de cabeça na hora de manter os serviços no ar.<br><br>Além da infraestrutura, curto explorar Cybersegurança, criar automações pessoais e otimizar meu dia a dia com setups minimalistas.</p>
 
-###
-
-<h4 align="left">SysAdmin • DevOps • SRE | O cara que chamam quando o servidor para.<br><br>Minha base sempre foi o Linux — é nele que administro servidores, orquestro containers e monto automações para deixar tudo rodando liso. Trabalho unindo a pegada clássica de SysAdmin com práticas DevOps e SRE, sempre buscando confiabilidade e menos dor de cabeça na hora de manter os serviços no ar.<br><br>Além da infraestrutura, curto explorar Cybersegurança, criar automações pessoais e otimizar meu dia a dia com setups minimalistas.</h4>
-
-###
-<p>
-
-<h3 align="left">Stack</h3>
-</p>
+<div align="left"> 
+  <a href="https://www.linkedin.com/in/joaomns/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+</div>
 
 ---
 
@@ -38,37 +36,3 @@
   <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=white&color=black" height="30" alt="Prometheus logo" />
 
 </div>
-
----
-
-<h3 align="left">Setup & Hardware</h3>
-
----
-
-<div align="left">
-  
-**Máquina Principal**
-  <img src="https://img.shields.io/badge/OS-Arch Linux-000000?style=for-the-badge&logo=archlinux&logoColor=white&color=black" height="30" alt="Arch Linux badge" />
-  <img src="https://img.shields.io/badge/CPU-Ryzen_5_5600-000000?style=for-the-badge&logo=amd&logoColor=white&color=black" height="30" alt="Ryzen 5 5600 badge" />
-  <img src="https://img.shields.io/badge/GPU-3060_TI-000000?style=for-the-badge&logo=nvidia&logoColor=white&color=black" height="30" alt="Nvidia 3060 TI badge" />
-  <img src="https://img.shields.io/badge/RAM-32GB-000000?style=for-the-badge&logo=ram&logoColor=white&color=black" height="30" alt="32GB RAM badge" />
-**Home Lab**
-  <img src="https://img.shields.io/badge/Hypervisor-Proxmox-000000?style=for-the-badge&logo=proxmox&logoColor=white&color=black" height="30" alt="Proxmox badge" />
-  <img src="https://img.shields.io/badge/CPU-Xeon_2667_V4-000000?style=for-the-badge&logo=intel&logoColor=white&color=black" height="30" alt="Xeon 2667 V4 badge" />
-  <img src="https://img.shields.io/badge/RAM-32GB-000000?style=for-the-badge&logo=ram&logoColor=white&color=black" height="30" alt="32GB RAM badge" />
-</div>
-
----
-
-<h3 align="left">Conecte-se comigo</h3>
-
----
-
-<div align="left">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&color=black" height="30" alt="LinkedIn logo"/>
-  </a>
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&color=black" height="30" alt="Email logo"/>
-</div>
-
-<br>
