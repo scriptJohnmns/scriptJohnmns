@@ -6,89 +6,100 @@
 
 ---
 
-<h3 align="left">Tecnologias que uso</h3>
+<h3 align="left">Stack</h3>
 
-###
-
-<h4 align="left">Sistemas e Cloud</h4>
-
-###
+---
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
+
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&color=black" height="30" alt="Linux logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=white&style=for-the-badge" height="30" alt="freebsd logo"  />
+  <img src="https://img.shields.io/badge/FreeBSD-000000?style=for-the-badge&logo=freebsd&logoColor=white&color=black" height="30" alt="FreeBSD logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="30" alt="windows8 logo"  />
+  <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white&color=black" height="30" alt="Windows logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="30" alt="amazonwebservices logo"  />
+  <img src="https://img.shields.io/badge/Amazon AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white&color=black" height="30" alt="Amazon Web Services logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=white&color=black" height="30" alt="Terraform logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white&color=black" height="30" alt="Ansible logo"  />
+
+<br>
+
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white&color=black" height="30" alt="Docker logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Podman-000000?style=for-the-badge&logo=podman&logoColor=white&color=black" height="30" alt="Podman logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white&color=black" height="30" alt="Kubernetes logo"  />
+  <img width="5" />
+
+<br>
+  
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&color=black" height="30" alt="Python logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white&color=black" height="30" alt="Go logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/GNU Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white&color=black" height="30" alt="GNU Bash logo"  />
+  <img width="5" />
+
+<br>
+
+  <img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=white&color=black" height="30" alt="Jenkins logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/GitHub Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white&color=black" height="30" alt="GitHub Actions logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white&color=black" height="30" alt="Git logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white&color=black" height="30" alt="GitLab logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=white&color=black" height="30" alt="Grafana logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=white&color=black" height="30" alt="Prometheus logo"  />
+
 </div>
 
-###
+---
 
-<h4 align="left">Infraestrutura e Orquestração</h4>
+<h3 align="left">Setup & Hardware</h3>
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" height="30" alt="terraform logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge" height="30" alt="ansible logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white&style=for-the-badge" height="30" alt="podman logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="30" alt="kubernetes logo"  />
-</div>
-
-###
-
-<h4 align="left">Linguagens e Scripting</h4>
-
-###
+---
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
+  
+**Máquina Principal**
+<br>
+  <img src="https://img.shields.io/badge/OS-Arch Linux-000000?style=for-the-badge&logo=archlinux&logoColor=white&color=black" height="30" alt="Arch Linux badge" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="30" alt="go logo"  />
+  <img src="https://img.shields.io/badge/CPU-Ryzen_5_5600-000000?style=for-the-badge&logo=amd&logoColor=white&color=black" height="30" alt="Ryzen 5 5600 badge" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="30" alt="bash logo"  />
-</div>
+  <img src="https://img.shields.io/badge/GPU-3060_TI-000000?style=for-the-badge&logo=nvidia&logoColor=white&color=black" height="30" alt="Nvidia 3060 TI badge" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/RAM-32GB-000000?style=for-the-badge&logo=ram&logoColor=white&color=black" height="30" alt="32GB RAM badge" />
 
-###
+<br>
 
-<h4 align="left">DevOps, CI/CD e Observabilidade</h4>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" height="30" alt="jenkins logo"  />
+**Home Lab**
+<br>
+  <img src="https://img.shields.io/badge/Hypervisor-Proxmox-000000?style=for-the-badge&logo=proxmox&logoColor=white&color=black" height="30" alt="Proxmox badge" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" height="30" alt="githubactions logo"  />
+  <img src="https://img.shields.io/badge/CPU-Xeon_2667_V4-000000?style=for-the-badge&logo=intel&logoColor=white&color=black" height="30" alt="Xeon 2667 V4 badge" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="30" alt="gitlab logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=black&style=for-the-badge" height="30" alt="grafana logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge" height="30" alt="prometheus logo"  />
+  <img src="https://img.shields.io/badge/RAM-32GB-000000?style=for-the-badge&logo=ram&logoColor=white&color=black" height="30" alt="32GB RAM badge" />
 </div>
 
 ---
 
 <h3 align="left">Conecte-se comigo</h3>
 
-###
+---
 
 <div align="left">
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn logo"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&color=black" height="30" alt="LinkedIn logo"/>
   </a>
   <img width="5" />
   <a href="#">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email logo"/>
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&color=black" height="30" alt="Email logo"/>
   </a>
 </div>
 
