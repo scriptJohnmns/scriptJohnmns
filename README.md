@@ -5,17 +5,10 @@
 <h4 align="left"> SysAdmin • DevOps • SRE | O cara que chamam quando o servidor para.</h4>
 <br>Minha base sempre foi o Linux — é nele que administro servidores, orquestro containers e monto automações para deixar tudo rodando liso. Trabalho unindo a pegada clássica de SysAdmin com práticas DevOps e SRE, sempre buscando confiabilidade e menos dor de cabeça na hora de manter os serviços no ar.<br><br>Além da infraestrutura, curto explorar Cybersegurança, criar automações pessoais e otimizar meu dia a dia com setups minimalistas.</p>
 
-<div align="left"> 
-  <a href="https://www.linkedin.com/in/joaomns/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
-</div>
-
 ---
 
+<h3 align="left">Skills</h3>
 <div align="left">
-
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&color=black" height="30" alt="Linux logo" />
   <img src="https://img.shields.io/badge/FreeBSD-000000?style=for-the-badge&logo=freebsd&logoColor=white&color=black" height="30" alt="FreeBSD logo" />
   <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white&color=black" height="30" alt="Windows logo" />
@@ -34,5 +27,5 @@
   <img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white&color=black" height="30" alt="GitLab logo" />
   <img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=white&color=black" height="30" alt="Grafana logo" />
   <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=white&color=black" height="30" alt="Prometheus logo" />
-
 </div>
+
